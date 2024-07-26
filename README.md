@@ -2,6 +2,8 @@
 
 ## Overview
 In this project, I have created a comprehensive Sales Dashboard using Microsoft Excel. The dashboard provides an in-depth analysis of the sales data, extracting key insights to help understand the trends and performance across various dimensions.
+## Dashboard
+![sale_dashboard](https://github.com/user-attachments/assets/cb0b72e9-926a-4b9b-b626-3892bff622c4)
 
 ## Insights Extracted
 The following insights were identified from the sales data:
