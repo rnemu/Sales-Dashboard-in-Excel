@@ -1,4 +1,4 @@
-# Sales Dashboard on Excel
+![sale_dashboard](https://github.com/user-attachments/assets/89e3c3e1-e49d-4409-ac1f-c5b708d5698e)# Sales Dashboard on Excel
 
 ## Overview
 In this project, I have created a attractive Sales Dashboard using Microsoft Excel. The dashboard provides an in-depth analysis of the sales data, extracting key insights to help understand the trends and performance across various dimensions.
@@ -22,12 +22,12 @@ The following insights were identified from the sales data:
 - **Trend Analysis:** Line charts showing trends over time for different dimensions.
 
 ## How to Use
-1. **Open the Dashboard:** Open the Excel file named `Sales_Dashboard.xlsx`.
+1. **Open the Dashboard:** Open the Excel file named `Sales Dashboard.xlsx`.
 2. **Explore the Data:** Use the interactive features to explore different aspects of the sales data.
 3. **Analyze Insights:** Review the visualizations and summary metrics to understand the key insights.
 
 ## Files Included
-- `Sales_Dashboard.xlsx`: The main Excel file containing the sales dashboard.
+- `Sales Dashboard.xlsx`: The main Excel file containing the sales dashboard,located in **Dashboard** directory.
 
 ## Conclusion
 This Sales Dashboard provides valuable insights into the sales performance across various dimensions. It helps in identifying key trends and top-performing categories, regions, salespersons, product types, channels, and time periods, enabling data-driven decision-making.
@@ -35,6 +35,7 @@ This Sales Dashboard provides valuable insights into the sales performance acros
 ## Contact
 For any questions or feedback, feel free to reach out to me.
 
----
 **Rakesh Nemu**
 - Email: rakeshnemu237@gamil.com
+
+ ---
