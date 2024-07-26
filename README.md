@@ -1,7 +1,7 @@
 # Sales Dashboard on Excel
 
 ## Overview
-In this project, I have created a comprehensive Sales Dashboard using Microsoft Excel. The dashboard provides an in-depth analysis of the sales data, extracting key insights to help understand the trends and performance across various dimensions.
+In this project, I have created a attractive Sales Dashboard using Microsoft Excel. The dashboard provides an in-depth analysis of the sales data, extracting key insights to help understand the trends and performance across various dimensions.
 ## Dashboard
 ![sale_dashboard](https://github.com/user-attachments/assets/cb0b72e9-926a-4b9b-b626-3892bff622c4)
 
@@ -36,7 +36,5 @@ This Sales Dashboard provides valuable insights into the sales performance acros
 For any questions or feedback, feel free to reach out to me.
 
 ---
-
 **Rakesh Nemu**
-- LinkedIn: [Rakesh Nemu](https://www.linkedin.com/in/rakeshnemu/)
-- Email: rakesh.nemu@example.com
+- Email: rakeshnemu237@gamil.com
